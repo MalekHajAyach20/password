@@ -19,3 +19,6 @@ test('Manque un caractère spécial', () => {
 test('Mot de passe valide', () => {
     expect(validerMotDePasse("Abcd1234!")).toBe("✅ Mot de passe valide");
 });
+
+
+// Changement pour déclencher le commit
