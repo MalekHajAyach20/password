@@ -22,3 +22,4 @@ test('Mot de passe valide', () => {
 
 
 // Changement pour déclencher le commit
+// Test pour vérifier le déclenchement de GitHub Actions
